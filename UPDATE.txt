@@ -1,0 +1,4 @@
+1. Keep your config.php in safe place.
+2. To update to v. 0.2 from v. 0.1 just extract/copy all the files from the package over your existing installation.
+Except your preconfigured config.php!!
+3. No changes in database structure necessary.

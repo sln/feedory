@@ -1,0 +1,50 @@
+** Requirements
+
+    * PHP 5/4
+    * Tested on MySQL 5
+
+	
+** Installation
+
+   1. Download and extract the zip package, upload the contents to your webspace and name the containing directoy e.g. “feedory”.
+   2. Go to http://<your-webspace/feedory/install and enter your database configuration.
+   3. If everything goes fine your done!
+
+Feedory has no protection of the url yet, which means, anyone knowing the url of your installation may see the interface. You may protect the installation with basic http Authentication, if that’s provided by your web hoster. 
+
+
+** Subscribing to feeds
+
+New feeds for your subscription list may get added via the entry field under "Feed Subscription".
+Feedory supports autodetecting of feeds in web pages, so you may just enter a web page url. Otherwise, or if that doesn't work for some reason, just enter the direct feed url.
+
+
+** Usage of the feedory feeds
+
+Feedory redelivers its subscriptions as subscribable feedory feeds which you may find under the orange rss-icons in your subscription list. You may enter the link behind the orange icon of a feed directly into your feed reader.
+
+The gray icon is a reference to the original url of the feed.
+
+
+** Updating feeds
+
+You may update your feed database via a local cron calling /<your local path>/feedory/feedstore.php or via webcron calling http://<your-webspace/feedory/feedstore.php
+
+
+** Feed Handling
+
+For maintaining your feedory database there are two command in the feedlist of feedory: Delete feed and Reset feed.
+
+
+** Subscribing to feeds
+
+New feeds for your subscription list may get added via the entry field under "Feed Subscription".
+Feedory supports autodetecting of feeds in web pages, so you may just enter a web page url. Otherwise, or if that doesn't work for some reason, just enter the direct feed url.
+
+
+** OPML Import/Export
+
+You may export your whole subscription list via OPML. There are two versions of OPML exports:
+
+   1. OPML export for your feeds as served by your feedory installation, that is with feedory urls. This is useful for loading the complete list into your favourite news reader.
+   2. OPML export for your feeds with the original sources as feeds urls. This may be useful for transfering the whole original feedlist to another news reader.

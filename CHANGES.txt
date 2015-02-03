@@ -1,0 +1,12 @@
+####################################################################
+# v. 0.2
+####################################################################
+Bookmarklet for subscriptions on the fly as you surf the net. Just drag it to your bookmark bar.
+
+Complete handling of encoding of special characters in feednames, items, etc.
+
+Better Encoding on display of feeds, subscription list, etc.
+
+Backward adapted for php4 and older php5 platforms.
+
+Flexible handling of (missing) timeinformation in feeds and items

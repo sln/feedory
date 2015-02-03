@@ -1,0 +1,75 @@
+
+body {
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-size: 85%;
+	font-family: sans-serif;
+	background-color: ffffff;
+}
+
+
+.barheader {
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.headerbar {
+	# height:30px;
+	background-image:url(images/bar.png);
+}
+
+.header {
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom:10px;
+	margin-top:5px;
+}
+
+.header2 {
+	font-weight: bold;
+	font-size: 14px;
+	margin-bottom:8px;
+	margin-top:5px;
+}
+
+.feedtitle {
+	font-weight: bold;
+	background-color:#f8f0e1;
+}
+
+.tableheader  {
+	font-weight: bold;
+	background-color: #cccccc;
+}
+
+.error {
+	font-weight: bold;
+	font-size: 14px;
+	margin-bottom:4px;
+	margin-top:4px;
+	color:red;
+}
+
+.success {
+	font-weight: bold;
+	font-size: 14px;
+	margin-bottom:4px;
+	margin-top:4px;
+	color:green;
+}
+
+.messageblock {
+	border: 2px solid orange;
+	padding: 10px;
+	background-color: #cccccc;
+	color: black;
+	font-weight: bold;
+	text-decoration:none;
+	width:50%;
+}

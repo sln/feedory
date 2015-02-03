@@ -1,0 +1,32 @@
+<opml version="1.1">
+  <head>
+    <title>FeedDemon Subscriptions</title>
+    <dateModified>Mon, 12 Apr 2010 12:36:01 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="Tech #">
+      <outline text="NYT &gt; Internet #" title="NYT &gt; Internet #" type="rss" xmlUrl="http://feeds.nytimes.com/nyt/rss/internet" htmlUrl="http://www.nytimes.com/pages/technology/internet/index.html?partner=rss"/>
+      <outline text="Droolr - Latest #" title="Droolr - Latest #" type="rss" xmlUrl="http://droolr.com/latest.xml" htmlUrl="http://droolr.com/latest.xml"/>
+      <outline text="AddictiveTips » Windows #" title="AddictiveTips » Windows #" type="rss" xmlUrl="http://www.addictivetips.com/category/windows-tips/feed/" htmlUrl="http://www.addictivetips.com"/>
+      <outline text="Rivva » Technologie #" title="Rivva » Technologie #" type="rss" xmlUrl="http://rivva.de/technologie/rss.xml" htmlUrl="http://rivva.de/technologie"/>
+      <outline text="Webdomination #" title="Webdomination #" type="rss" xmlUrl="http://feeds.feedburner.com/Webdomination" htmlUrl="http://www.webdomination.de"/>
+      <outline text="WebResourcesDepot #" title="WebResourcesDepot #" type="rss" xmlUrl="http://feeds2.feedburner.com/webresourcesdepot" htmlUrl="http://www.webresourcesdepot.com"/>
+      <outline text="TR Computing #" title="TR Computing #" type="rss" xmlUrl="http://feeds.technologyreview.com/technology_review_Computing" htmlUrl="http://www.technologyreview.com/computing/"/>
+      <outline text="Lifehacker: Linux #" title="Lifehacker: Linux #" type="rss" xmlUrl="http://lifehacker.com/software/linux/index.xml" htmlUrl="http://lifehacker.com/tag/linux" description="Lifehacker posts tagged 'Linux'"/>
+      <outline text="Dr. Web Magazin #" title="Dr. Web Magazin #" type="rss" xmlUrl="http://www.drweb.de/magazin/?feed=rss2&amp;cat=2" htmlUrl="http://www.drweb.de/magazin"/>
+      <outline text="M O O S Y #" title="M O O S Y #" type="rss" xmlUrl="http://moosy.blogspot.com/feeds/posts/default" htmlUrl="http://moosy.blogspot.com/"/>
+      <outline text="TR Web #" title="TR Web #" type="rss" xmlUrl="http://feeds.technologyreview.com/technology_review_Web" htmlUrl="http://www.technologyreview.com/web/"/>
+      <outline text="hongkiat.com #" title="hongkiat.com #" type="rss" xmlUrl="http://feeds2.feedburner.com/24thfloor" htmlUrl="http://www.hongkiat.com/blog"/>
+      <outline text="WebWorkerDaily » Apps #" title="WebWorkerDaily » Apps #" type="rss" xmlUrl="http://webworkerdaily.com/category/apps/feed/" htmlUrl="http://webworkerdaily.com"/>
+      <outline text="AddictiveTips » Internet #" title="AddictiveTips » Internet #" type="rss" xmlUrl="http://www.addictivetips.com/category/internet-tips/feed/" htmlUrl="http://www.addictivetips.com"/>
+      <outline text="VisInsights #" title="VisInsights #" type="rss" xmlUrl="http://www.visinsights.com/feed/" htmlUrl="http://www.visinsights.com"/>
+      <outline text="Lifehacker: Desktops #" title="Lifehacker: Desktops #" type="rss" xmlUrl="http://lifehacker.com/tag/desktops/index.xml" htmlUrl="http://lifehacker.com/tag/desktops"/>
+      <outline text="Scout Labs #" title="Scout Labs #" type="rss" xmlUrl="http://www.scoutlabs.com/atom.xml" htmlUrl="http://www.scoutlabs.com/"/>
+      <outline text="Smashing Magazine #" title="Smashing Magazine #" type="rss" xmlUrl="http://rss1.smashingmagazine.com/feed/" htmlUrl="http://www.smashingmagazine.com" description="we smash you with the information that will make your life easier. really."/>
+      <outline text="Fischmarkt #" title="Fischmarkt #" type="rss" xmlUrl="http://feeds.sinnerschrader.de/Fischmarkt" htmlUrl="http://www.fischmarkt.de/"/>
+      <outline text="PHYSorg - Computer Sciences #" title="PHYSorg - Computer Sciences #" type="rss" xmlUrl="http://www.physorg.com/rss-feed/technology-news/computer-sciences/" htmlUrl="http://www.physorg.com/technology-news/computer-sciences/"/>
+      <outline text="heise online News #" title="heise online News #" type="rss" xmlUrl="http://www.heise.de/newsticker/heise-atom.xml" htmlUrl="http://www.heise.de/newsticker/"/>
+      <outline text="MBI Blog #" title="MBI Blog #" type="rss" xmlUrl="http://www.buzinkay.net/blog-de/feed/" htmlUrl="http://www.buzinkay.net/blog-de"/>
+    </outline>
+  </body>
+</opml>

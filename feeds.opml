@@ -1,0 +1,14 @@
+<opml version="1.1">
+  <head>
+    <title>FeedDemon Subscriptions</title>
+    <dateModified>Fri, 27 Nov 2009 09:35:13 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="Search">
+      <outline text="AltSearchEngines" title="AltSearchEngines" type="rss" xmlUrl="http://feeds.feedburner.com/AltSearchEngines" htmlUrl="http://www.altsearchengines.com" description="The most wonderful search engines you've never seen!"/>
+      <outline text="Custom Search Engine" title="Custom Search Engine" type="rss" xmlUrl="http://googlecustomsearch.blogspot.com/atom.xml" htmlUrl="http://googlecustomsearch.blogspot.com/" description="Updates and tips from the Google Custom Search team."/>
+      <outline text="Yahoo! Search Blog #" title="Yahoo! Search Blog #" type="rss" xmlUrl="http://feeds.feedburner.com/YahooSearchBlog" htmlUrl="http://ysearchblog.com"/>
+      <outline text="Google Blogoscoped" title="Google Blogoscoped" type="rss" xmlUrl="http://blogoscoped.com/rss.xml" htmlUrl="http://blogoscoped.com" description="Google, the World, and the World Wide Web, Weblogged"/>
+    </outline>
+  </body>
+</opml>
